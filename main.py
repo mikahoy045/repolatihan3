@@ -3,7 +3,8 @@ from colorama import Fore, init
 
 init(autoreset=True)
 
-def greet(name):    
+def greet(name):
+    wah ini siapa ya?    
     return f"Hello, {name}!"
 
 def main():
